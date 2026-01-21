@@ -1,4 +1,4 @@
-# # Machine Learning for Ocean Classifiction
+# Machine Learning for Ocean Classifiction
 
 The purpose of this assignment is to develop a machine learning algorithm that classifies an ocean based on the physical and chemical properties of its water. K-nearest neighbors and decision tree classifiers were used in supervised learning processes, while k-means, agglomerative, and DBSCAN clustering were used for unsupervised learning. 
 
@@ -11,7 +11,7 @@ Once the original datasets had been merged and cleaned, the final CSV was added 
 An in-depth exploration of tthe data, its findings, and scope for future research is included in the whitepaper for this project. 
 
 
-# Links to data:
+Links to data:
 
 Classification dataset: [Marine Ecoregions and Pelagic Provinces of the World](https://data-gis.unep-wcmc.org/portal/home/item.html?id=80567b4443f4457b822f645a2f0d70cf)
 **Loading this dataset involves a high runtime. The recommendation is to run this line of code, within the data cleaning Colab link, individually and avoid the "Run All" button to prevent a runtime error. 
